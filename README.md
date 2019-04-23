@@ -1,4 +1,4 @@
-# pandas.js
+# pandas-for-js
 Pandas for JavaScript
 
 ## Documentation
@@ -6,11 +6,11 @@ Pandas for JavaScript
 
 ## Installation and use
 ```
-$ npm install pandas.js
+$ npm install pandas-for-js
 ```
 
 ```js
-import { Series, DataFrame } from 'pandas-js';
+import { Series, DataFrame } from 'pandas-for-js';
 ```
 
 
